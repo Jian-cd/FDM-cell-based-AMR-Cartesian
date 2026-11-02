@@ -112,13 +112,13 @@ To reproduce the center-refined meshes of the paper's accuracy test, set
 
 ## References
 
-[1] X. Li, M. Yang, L. Bi, R. Xu, C. Luo, S. Yuan, X. Yuan, Z. Tang, An efficient Cartesian mesh generation strategy for complex geometries, *Comput. Methods Appl. Mech. Eng.* 418 (2024) 116564.
+[1] C. Luo, L. Bi, S. Meng, H. Gao, X. Yuan, Z. Tang, A novel algorithm for fluid dynamics simulation with cell-adaptive Cartesian grids and immersed boundary method, *Phys. Fluids* 37 (2025) 046122.
 
-[2] S. Meng, D. Zhou, X. Yuan, X. Li, H. Chen, L. Bi, Enhanced strategy for adaptive Cartesian grid generation with arbitrarily complex 3D geometry, *Adv. Eng. Softw.* 174 (2022) 103304.
+[2] X. Li, M. Yang, L. Bi, R. Xu, C. Luo, S. Yuan, X. Yuan, Z. Tang, An efficient Cartesian mesh generation strategy for complex geometries, *Comput. Methods Appl. Mech. Eng.* 418 (2024) 116564.
 
 [3] S. Meng, D. Zhou, L. Bi, X. Li, C. Luo, H. Du, Anisotropic Cartesian grid generation strategy for arbitrarily complex geometry based on a fully threaded tree, *Comput.-Aided Des.* 155 (2023) 103447.
 
-[4] C. Luo, L. Bi, S. Meng, H. Gao, X. Yuan, Z. Tang, A novel algorithm for fluid dynamics simulation with cell-adaptive Cartesian grids and immersed boundary method, *Phys. Fluids* 37 (2025) 046122.
+[4] S. Meng, D. Zhou, X. Yuan, X. Li, H. Chen, L. Bi, Enhanced strategy for adaptive Cartesian grid generation with arbitrarily complex 3D geometry, *Adv. Eng. Softw.* 174 (2022) 103304.
 
 ## Citation
 
