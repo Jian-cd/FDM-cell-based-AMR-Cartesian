@@ -122,6 +122,7 @@ To reproduce the center-refined meshes of the paper's accuracy test, set
 
 ## Citation
 
+```bibtex
 @article{mi2026third,
   title   = {A third-order finite difference method on cell-based adaptive
              Cartesian grids for compressible flows},
